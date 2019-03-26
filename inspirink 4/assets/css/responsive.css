@@ -1,0 +1,33 @@
+/* ------------------------------------------ HEADER ------------------------------------------- */
+
+@media screen and (max-width: 767px) {
+    header#head div.container div.row {
+        background: none;
+        margin: auto;
+        left:0;
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    section#jms-slideshow {
+        display: none;
+    }
+    div.events {
+        display: block;
+    }
+    div.events img {
+        height: 40vh;
+        width: auto;
+        margin: auto;
+    }
+}
+
+  @media screen and (min-width: 1000px) {
+    section#jms-slideshow {
+        display: block;
+    }
+    div.events {
+        display: none;
+    }
+
+  }

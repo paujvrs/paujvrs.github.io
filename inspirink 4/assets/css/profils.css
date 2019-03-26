@@ -1,0 +1,43 @@
+.photo {
+    width: 100%;
+    height: 200px;
+}
+
+.profils-tattoos { 
+    color: inherit; 
+    padding-bottom:30px; 
+    margin-bottom:0; 
+}
+
+i.icone {
+    width: 120px;
+    height: 120px;
+    background-image: url('../images/adrien-scraat.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    margin: auto;
+}
+
+i.icone-2 {
+    width: 120px;
+    height: 120px;
+    background-image: url('../images/jeremy-morbleu.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    margin: auto;
+}
+
+i.icone-3 {
+    width: 120px;
+    height: 120px;
+    background-image: url('../images/remy-bones.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    margin: auto;
+}

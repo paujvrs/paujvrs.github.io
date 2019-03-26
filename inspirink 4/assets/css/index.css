@@ -1,0 +1,61 @@
+.dernieres-sorties {
+    border: 0.5px solid grey;
+    background-color: rgb(231, 231, 231);
+    padding: 0;
+    margin: 10px 10px 0 0;
+}
+
+div.image-article {
+    width: 100%;
+    height: 170px;
+    background-image: url('../images/article-1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div.image-article-2 {
+    width: 100%;
+    height: 170px;
+    background-image: url('../images/tattoo-cover.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div.image-article-3 {
+    width: 100%;
+    height: 170px;
+    background-image: url('../images/old-school.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text-center-bis {
+    margin: 10px;
+}
+
+.text-center-bis p {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.article-btn {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-left: 70%;
+}
+
+.article-btn button {
+    width: 120px;
+    height: 30px;
+    background-color: none;
+    border: none;
+    background-color: transparent;
+}
+
+.article-btn button:hover {
+    color: grey;
+}
